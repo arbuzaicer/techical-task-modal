@@ -481,3 +481,7 @@ textarea {
 .MuiSelect-root {
   display: flex !important;
 }
+
+.MuiInputBase-root > svg {
+  color: #eeeeee !important;
+}
